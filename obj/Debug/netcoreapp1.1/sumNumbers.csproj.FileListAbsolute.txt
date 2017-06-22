@@ -1,0 +1,8 @@
+/Users/wayneburris/Desktop/Projects/C#Projects/sumNumbers/bin/Debug/netcoreapp1.1/sumNumbers.deps.json
+/Users/wayneburris/Desktop/Projects/C#Projects/sumNumbers/bin/Debug/netcoreapp1.1/sumNumbers.runtimeconfig.json
+/Users/wayneburris/Desktop/Projects/C#Projects/sumNumbers/bin/Debug/netcoreapp1.1/sumNumbers.runtimeconfig.dev.json
+/Users/wayneburris/Desktop/Projects/C#Projects/sumNumbers/bin/Debug/netcoreapp1.1/sumNumbers.dll
+/Users/wayneburris/Desktop/Projects/C#Projects/sumNumbers/bin/Debug/netcoreapp1.1/sumNumbers.pdb
+/Users/wayneburris/Desktop/Projects/C#Projects/sumNumbers/obj/Debug/netcoreapp1.1/sumNumbers.AssemblyInfo.cs
+/Users/wayneburris/Desktop/Projects/C#Projects/sumNumbers/obj/Debug/netcoreapp1.1/sumNumbers.dll
+/Users/wayneburris/Desktop/Projects/C#Projects/sumNumbers/obj/Debug/netcoreapp1.1/sumNumbers.pdb
